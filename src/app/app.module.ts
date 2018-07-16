@@ -8,7 +8,7 @@ import { AuthorsService } from './authors.service';
 @NgModule({
   declarations: [
     AppComponent,
-    AuthorsComponent
+    AuthorsComponent,
   ],
   imports: [
     BrowserModule
